@@ -10,24 +10,6 @@
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
     <vendor email="983220871@qq.com" url="http://blog.guonl.cn">guonl</vendor>
 
-    <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
-         Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
-         Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
-<!--    <description>-->
-<!--        <![CDATA[-->
-<!--          1、属性相同的类快速转换: <br>-->
-<!--             打开对应的java类，在内部点击鼠标右键，然后点击右键菜单中的第一个`Convert Bean` 或者使用快捷键：`alt + B` or `option + B` <br><br>-->
-<!--          2、类对象转换为JSON: <br>-->
-<!--             打开对应的java类，在内部点击鼠标右键，然后点击右键菜单中的第二个`Convert Json` 或者使用快捷键：`alt + J` or `option + J`-->
-<!--        ]]>-->
-<!--    </description>-->
-
-<!--    <change-notes>-->
-<!--        <![CDATA[-->
-<!--            1.0.0发布-->
-<!--        ]]>-->
-<!--    </change-notes>-->
-
     <!--  表示当前插件所强制依赖的模块，用于自动兼容性扫描 -->
     <!-- Product and plugin compatibility requirements.
          Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
