@@ -6,9 +6,7 @@
 
 </div>
 
-<div align="center" id="show_plugins" >
-<iframe width="384px" height="319px" src="https://plugins.jetbrains.com/embeddable/card/23975"></iframe>
-</div>
+[插件商店地址](https://plugins.jetbrains.com/plugin/23975-convert-bean-json)
 
 <!-- Plugin description -->
 <h4>

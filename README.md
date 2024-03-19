@@ -6,10 +6,7 @@ English | [简体中文](./README.zh-CN.md)
 
 </div>
 
-<div align="center" id="show_plugins" >
-<iframe width="384px" height="319px" src="https://plugins.jetbrains.com/embeddable/card/23975"></iframe>
-</div>
-
+[Plugin Marketplace Address](https://plugins.jetbrains.com/plugin/23975-convert-bean-json)
 
 <!-- Plugin description -->
 <h4>convert-bean-json is an IDEA plugin that implements assignments between the same properties of java objects, similar to BeanUtils. 
