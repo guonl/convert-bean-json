@@ -16,6 +16,15 @@ Precise manual control of the transmission of each field greatly improves the ef
 - Quickly generate convert methods without the need for a manual get set
 - Quickly convert the fields of the bean to json format for postman debugging
 - ...more features to come
+
+## 🌈 Instructions
+### 1. bean copy to bean
+Open the corresponding java class, right-click inside, and then click the first `Convert Bean` <br> in the right-click menu.
+Or use the shortcut key: `alt + B` or `option + B`  
+
+### 2. bean to json
+Open the corresponding java class, right-click inside, and then click the second `Convert Json` <br> in the right-click menu.
+Alternatively, use the shortcut key: `alt + J` or `option + J`  
 <!-- Plugin description end -->
 
 
