@@ -6,6 +6,10 @@
 
 </div>
 
+<div align="center" id="show_plugins" >
+<iframe width="384px" height="319px" src="https://plugins.jetbrains.com/embeddable/card/23975"></iframe>
+</div>
+
 <!-- Plugin description -->
 <h4>
 convert-bean-json 是一款 IDEA 插件，它能够实现java对象相同属性之间的赋值，有点类似BeanUtils，
